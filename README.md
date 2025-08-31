@@ -1,7 +1,10 @@
 # pythonTools
 
+miniProjects
+=====================
 Automated Photo Uploads to Airtable
 https://vimeo.com/1114665566?share=copy
+=====================
 
 Overview
 Welcome to my project! This repository features a Python script that automates the process of uploading photos from Google Drive to Airtable, specifically for tree surveys. As a dedicated bootcamp student transitioning from an agricultural background to the tech industry, I am passionate about harnessing technology to solve practical challenges.

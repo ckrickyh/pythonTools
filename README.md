@@ -3,7 +3,9 @@
 
 **miniProjects**
 
-Automated Photo Uploads to Airtable: https://vimeo.com/1114665566?share=copy
+Automated Photo Uploads to Airtable: https://vimeo.com/1114671116?share=copy
+
+Automated Data Entry Application using Python: https://vimeo.com/1114613957?share=copy
 
 =====================
 

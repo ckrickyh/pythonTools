@@ -1,7 +1,8 @@
 # Python Tools
 **Mini Projects**
+========================================
 
-1. __Automated Photo Uploads to Airtable__: https://vimeo.com/1114671116?share=copy
+1. __Automated Photo Uploads to Airtable__: https://vimeo.com/1114671116?share=copy [Watch the video](https://github.com/ckrickyh/pythonTools/blob/main/colab/airTable/uploadPhotoFromGoogleDriveToAirTable.mp4)
 
 2. __RPA Data Entry Application using Python__: https://vimeo.com/1114613957?share=copy
 

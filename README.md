@@ -1,4 +1,4 @@
-# Python Tools
+<img width="1416" height="821" alt="Screenshot 2025-09-02 at 2 00 52 PM" src="https://github.com/user-attachments/assets/8a7f3c01-6429-4733-bf0c-9352349d1b8f" /># Python Tools
 **Mini Projects**
 ========================================
 
@@ -9,7 +9,9 @@
 3. __Interactive web map__: https://hydslpss.netlify.app/   
 (This project displays Google Street View based on location, using the Hong Kong government map as a base layer. It was my first programming project, and I dedicated significant time to its development. The static interactive web map takes about 20 seconds to load and runs smoothly on mobile devices compared to computers.)
 
-4. __Interactive web map integrated with anvil__: https://dependable-kosher-curlew.anvil.app/ 
+4. __Interactive web map integrated with anvil__: https://dependable-kosher-curlew.anvil.app/
+<img src ="<img width="1416" height="821" alt="Screenshot 2025-09-02 at 2 00 52 PM" src="https://github.com/user-attachments/assets/8086e7e5-b93d-4625-b5a7-24d5a050cab6" width 70%/>
+ 
 (anvil is a low tech web app for python development, i also add a dashboard https://2024tram10f2.netlify.app/ into this app for analysis)
 
 **Overview**

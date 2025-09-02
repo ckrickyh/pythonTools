@@ -6,7 +6,8 @@
 
 2. __RPA Data Entry Application using Python__: https://vimeo.com/1114613957?share=copy
 
-3. __Interactive web map__: https://hydslpss.netlify.app/   
+3. __Interactive web map__: https://hydslpss.netlify.app/
+<img src ="https://github.com/ckrickyh/pythonTools/blob/main/colab/map/Urban%20forest%20managment%20Map%20Application.png width=70%/>   
 (This project displays Google Street View based on location, using the Hong Kong government map as a base layer. It was my first programming project, and I dedicated significant time to its development. The static interactive web map takes about 20 seconds to load and runs smoothly on mobile devices compared to computers.)
 
 4. __Interactive web map integrated with anvil__: https://dependable-kosher-curlew.anvil.app/

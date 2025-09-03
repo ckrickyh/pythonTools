@@ -8,12 +8,12 @@ ly6# Python Tools
 This program enables users to upload photos from Google Drive to Airtable, streamlining data management for field surveys. It boosts efficiency by simplifying historical data updates and enhances organization, creating a practical solutions that optimize workflow.</br>
 
 2. __RPA Data Entry Application__: </br>
-<a href="https://vimeo.com/manage/videos/1114613957"><img width=50% src="https://github.com/ckrickyh/pythonTools/blob/main/miniProjects/tmcpF1_automation/rpa.png</a></br>
+<a href="https://vimeo.com/manage/videos/1114613957"><img src="https://github.com/ckrickyh/pythonTools/blob/main/miniProjects/tmcpF1_automation/rpa.png" width=50%></a></br>
 
 
 3. __Interactive web map__: https://hydslpss.netlify.app/ <br/>
  <img src ="https://github.com/ckrickyh/pythonTools/blob/main/colab/map/Urban%20forest%20managment%20Map%20Application.png" width=70%/><br/>
-(This project displays Google Street View based on location, using the Hong Kong government map as a base layer. It was my first programming project, and I dedicated significant time to its development. The static interactive web map takes about 20 seconds to load and runs smoothly on mobile devices compared to computers. Google street view is supported on the application.) <br/>
+(This project displays Google Street View based on location, using the Hong Kong government map as a base layer. It was my first programming project, and I dedicated significant time to its development. The static interactive web map takes about 20 seconds to load and runs smoothly on mobile devices compared to computers. Google street view is support"ed on the application.) <br/>
 
 4. __Interactive web map integrated with anvil__: https://dependable-kosher-curlew.anvil.app/ <br/>
  <img src="https://github.com/user-attachments/assets/8086e7e5-b93d-4625-b5a7-24d5a050cab6" width=70%/> <br/>

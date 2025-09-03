@@ -4,11 +4,11 @@ ly6# Python Tools
 ========================================
 
 1. __Automated Photo Uploads to Airtable__: <br/>
- <a href="https://vimeo.com/manage/videos/1115064992"><img src="colab/airTable/previewImg.png" width=50%/></a><br/>
+ <a href="https://vimeo.com/manage/videos/1115064992"><img src="colab/airTable/previewImg.png" width=70%/></a><br/>
 This program enables users to upload photos from Google Drive to Airtable, streamlining data management for field surveys. It boosts efficiency by simplifying historical data updates and enhances organization, creating a practical solutions that optimize workflow.</br>
 
 2. __RPA Data Entry Application__: </br>
-<a href="https://vimeo.com/manage/videos/1114613957"><img src="https://github.com/ckrickyh/pythonTools/blob/main/miniProjects/tmcpF1_automation/rpa.png" width=50%></a></br>
+<a href="https://vimeo.com/manage/videos/1114613957"><img src="https://github.com/ckrickyh/pythonTools/blob/main/miniProjects/tmcpF1_automation/rpa.png" width=70%></a></br>
 
 
 3. __Interactive web map__: https://hydslpss.netlify.app/ <br/>

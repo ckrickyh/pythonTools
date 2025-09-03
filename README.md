@@ -8,8 +8,7 @@ ly6# Python Tools
 This program enables users to upload photos from Google Drive to Airtable, streamlining data management for field surveys. It boosts efficiency by simplifying historical data updates and enhances organization, creating a practical solutions that optimize workflow.</br>
 
 2. __RPA Data Entry Application__: </br>
-<img width=50% src="https://github.com/ckrickyh/pythonTools/blob/main/miniProjects/tmcpF1_automation/rpa.png</a>
-<img width="50% alt="Screenshot 2025-09-02 at 3 46 19 PM" src="https://github.com/user-attachments/assets/da316688-22ee-41b3-875d-118e5f220cbe" />
+<a href="https://vimeo.com/manage/videos/1114613957"><img width=50% src="https://github.com/ckrickyh/pythonTools/blob/main/miniProjects/tmcpF1_automation/rpa.png</a></br>
 
 
 3. __Interactive web map__: https://hydslpss.netlify.app/ <br/>

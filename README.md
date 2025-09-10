@@ -22,7 +22,7 @@ This program enables users to upload photos from Google Drive to Airtable, strea
 5. __Hand Gesture Recongition__: <br/>
  <a href="https://vimeo.com/1117408999"><img src="colab/gestureRecongition/handGesture.jpg" width=70%/></a><br/>
 In addition to traditional OCR detection, Google has developed a library for detecting gestures using 21 3D landmarks on the hands, utilizing OpenCV to identify these points during video capture (credit: Oxxo Studio https://steam.oxxostudio.tw/category/python/ai/ai-mediapipe-2023-hand.html).
-I have made some modifications to identify hand gestures in photos, which helps automate the naming and classification of images based on the gestures made after a photo is taken.
+I have made some modifications to identify hand gestures in photos, which helps automate the naming and classification of images based on the gestures's photo made after a photo is taken.
 
 6. __Whatsapp Notification__: <br/>
 <img src ="colab/whatsappNotification/awsLambda.png" width=70%/><br/>

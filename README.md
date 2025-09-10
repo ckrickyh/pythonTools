@@ -25,6 +25,7 @@ In addition to traditional OCR detection, Google has developed a library for det
 I have made some modifications to identify hand gestures in photos, which helps automate the naming and classification of images based on the gestures made after a photo is taken.
 
 6. __Whatsapp Notification__: <br/>
+<img src ="colab/whatsappNotification/awsLambda.png" width=70%/><br/>
 This small application connects to Google Sheets to track upcoming due dates. It sends WhatsApp messages to users when a due date is approaching—specifically, within three days to the deadline. I have deployed it on AWS Lambda for automation, which incurs no daily running costs.
 
 **Overview**

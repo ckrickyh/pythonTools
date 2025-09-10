@@ -1,4 +1,4 @@
-ly6# Python Tools
+# Python Tools
 
 **Mini Projects**
 ========================================
@@ -19,16 +19,18 @@ This program enables users to upload photos from Google Drive to Airtable, strea
  <img src="https://github.com/user-attachments/assets/8086e7e5-b93d-4625-b5a7-24d5a050cab6" width=70%/> <br/>
 (Anvil is a low code web app platform for python development, i also add a dashboard https://2024tram10f2.netlify.app/ into this app for analysis)<br/>
 
+5. __gestureRecongition__: <br/>
+ <a href="[https://vimeo.com/manage/videos/1115064992](https://vimeo.com/1117408999)"><img src="colab/gestureRecongition/handGesture.jpg" width=70%/></a><br/>
+In addition to traditional OCR detection, Google has developed a library for detecting gestures using 21 3D landmarks on the hands, utilizing OpenCV to identify these points during video capture (credit: Oxxo Studio https://steam.oxxostudio.tw/category/python/ai/ai-mediapipe-2023-hand.html).
+I have made some modifications to identify hand gestures in photos, which helps automate the naming and classification of images based on the gestures made after a photo is taken.
+
+6. __whatsappNotification__: <br/>
+This small application connects to Google Sheets to track upcoming due dates. It sends WhatsApp messages to users when a due date is approaching—specifically, within three days to the deadline. I have deployed it on AWS Lambda for automation, which incurs no daily running costs.
+
 **Overview**
 ========================================
 Welcome to my project! This repository contains a Python script that automates the upload of photos from Google Drive to Airtable, designed specifically for field surveys. It utilizes RPA to minimize tedious manual processes and includes a web map for monitoring and managing large-scale locations. As a dedicated bootcamp student transitioning from an arboricultural background to the tech industry, I am eager to leverage technology to address practical challenges.<br/>
 
-Features
-Automated Uploads: Effortlessly upload photos from Google Drive to Airtable.
-Customizable: Easily modify the script for various projects or data types.
-User-Friendly: Designed to be accessible for both beginners and experienced developers.<br/>
-
-Contributing
 I welcome contributions! If you have suggestions or improvements, please feel free to open an issue or submit a pull request.<br/>
 
 Future Aspirations

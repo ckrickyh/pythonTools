@@ -28,6 +28,12 @@ I have made some modifications to identify hand gestures in photos, which helps 
 <img src ="colab/whatsappNotification/awsLambda.png" width=70%/><br/>
 This small application connects to Google Sheets to track upcoming due dates. It sends WhatsApp messages to users when a due date is approaching—specifically, within three days to the deadline. I have deployed it on AWS Lambda for automation, which incurs no daily running costs.
 
+7. __Real use case for K-means Clustering__: <br/>
+<img src ="colab/same-size K-means/ClusteringByGroupSize.png" width=70%/><br/>
+This mini-project showcases a practical application of K-means clustering in the field of tree management. K-means clustering is a fundamental machine learning technique used to group data points based on their similarities, and in this project, I apply it to geolocation effectively.
+In tree management system, the geolocation data of trees can be categorized into up to 50 clusters, each representing a distinct group of trees. This approach adheres to the requirement established by the Tree Management Office of HK government, which mandates that each tree group be limited to 50 clusters of similar size. By implementing the K-means clustering method, we can efficiently manage and analyze tree populations, facilitating better decision-making in urban forestry and environmental conservation efforts.
+This project not only highlights the practical utility of K-means clustering but also demonstrates my ability to apply machine learning concepts to real-world scenarios.
+
 **Overview**
 ========================================
 Welcome to my project! This repository contains a Python script that automates the upload of photos from Google Drive to Airtable, designed specifically for field surveys. It utilizes RPA to minimize tedious manual processes and includes a web map for monitoring and managing large-scale locations. As a dedicated bootcamp student transitioning from an arboricultural background to the tech industry, I am eager to leverage technology to address practical challenges.<br/>

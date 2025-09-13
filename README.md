@@ -38,3 +38,93 @@ Future Aspirations
 As I continue to grow in the developer industry, I am eager to learn and embrace new challenges. I believe in the power of technology to drive positive change, and I look forward to contributing to innovative solutions.<br/>
 
 Thank you for exploring my project!
+
+====
+# Note of my interactive web map
+
+## Summary of FoliumHKI_Release.ipynb
+
+**Purpose:**  
+This Jupyter notebook is designed for working with geospatial data related to Hong Kong, focusing on trees, slopes, districts, bus stops, and public works. It leverages Google Colab for cloud execution, integrates with Google Drive, and uses the Folium library (along with extensions) to visualize spatial data on interactive maps.
+
+---
+
+## Key Components
+
+### 1. **Setup and Mounting**
+- **Google Drive Mount:**  
+  The notebook mounts Google Drive to access and store data files, configuration files, and outputs.
+- **Authentication:**  
+  Authenticates with Google for access to Google Sheets and Drive.
+
+### 2. **Package Installation**
+- Installs required Python packages:  
+  - **geopandas**: for geospatial data handling
+  - **folium**, **foliumEllipsis**, **folium-vectortilelayer**: for interactive mapping
+  - **fiona**, **htmlmin**, **netlify-python**, **openpyxl**, **pathlib**, **numpy** and others
+
+### 3. **Configuration Import**
+- Loads custom configuration parameters from a Python config file in the mounted Drive (e.g., paths, sheet IDs).
+
+### 4. **Data Preparation**
+- **Lists and Paths:**  
+  Sets up lists of Hong Kong districts, departments, and other categorical data.
+- **File and Resource Paths:**  
+  Organizes download, resource, and output directories for data files.
+
+### 5. **Downloading GeoJSON Data**
+- Uses `wget` to download multiple GeoJSON/zip files from the Hong Kong CSDI portal, including:
+  - Slope data (`Slpgeojson`, `SlpSubgeojson`, `SubstandardSlp`)
+  - District boundaries (`AdmDist`, `LPgeojson`)
+  - Bus stop locations (`BusStop`)
+  - Excavation works (`ExcavationWorks`)
+
+### 6. **Data Loading and Processing**
+- **Unzipping and Reading Files:**  
+  Reads zipped shapefiles and GeoJSON files into GeoPandas dataframes.
+- **Google Sheets Integration:**  
+  Loads tree data (SWT) directly from a Google Sheet into a dataframe, filters and processes the columns, assigns colors and icons for mapping.
+- **Districts, Slopes, Bus Stops:**  
+  Reads and prints metadata for these datasets, showing available columns and unique values.
+
+### 7. **Map Preparation (Implied)**
+- The notebook sets up all required spatial dataframes for further visualization in Folium.
+- While the provided content does not include the actual Folium map creation steps, the setup enables interactive mapping of:
+  - Trees (with species, health, and location)
+  - Bus stops
+  - District boundaries
+  - Slope and substandard slope data
+  - Excavation/public works
+
+---
+
+## Typical Use Cases
+
+- **Urban Tree Management:**  
+  Visualizing tree inventories, health, and maintenance districts.
+- **Slope Risk Mapping:**  
+  Displaying locations and attributes of slopes, including substandard areas.
+- **District Analysis:**  
+  Overlaying administrative and landscape boundaries for planning and analysis.
+- **Public Transport:**  
+  Mapping bus stops for accessibility studies.
+- **Public Works:**  
+  Showing locations of excavation or construction works.
+
+---
+
+## Technologies Used
+
+- **Python Libraries:** geopandas, pandas, numpy, folium, fiona, htmlmin, netlify-python, openpyxl, pathlib
+- **Google Colab and Drive:** for cloud execution and storage
+- **Google Sheets:** for real-time data integration
+- **Hong Kong CSDI:** as a source of official geospatial datasets
+
+---
+
+## Notes
+
+- The notebook is modular, allowing for easy addition of new spatial datasets.
+- The configuration-driven approach (with external config files) makes it adaptable for different analyses and regions.
+- Mapping functionality is likely built in later cells (not shown in the provided context), using Folium to create interactive web maps.
+ 

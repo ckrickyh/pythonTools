@@ -1,6 +1,6 @@
 # Python Tools
 
-**Mini Projects**
+**This project includes folders for Mini Projects and Colab**
 ========================================
 
 1. __Automated Photo Uploads to Airtable__: <br/>

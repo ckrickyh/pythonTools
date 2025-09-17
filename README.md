@@ -3,13 +3,13 @@
 **This project includes folders for Mini Projects and Colab**
 ========================================
 
-1. __Automated Photo Uploads to Airtable__: <br/>
+1. __Automated Photo Uploads to Airtable__: https://vimeo.com/manage/videos/1115064992<br/>
  <a href="https://vimeo.com/manage/videos/1115064992"><img src="colab/airTable/previewImg.png" width=70%/></a><br/>
 This program enables users to upload photos from Google Drive to Airtable, streamlining data management for field surveys. It boosts efficiency by simplifying historical data updates and enhances organization, creating a practical solutions that optimize workflow.</br>
 
-2. __RPA Data Entry Application__: </br>
+2. __RPA Data Entry Application__: https://vimeo.com/manage/videos/1114613957</br>
 <a href="https://vimeo.com/manage/videos/1114613957"><img src="https://github.com/ckrickyh/pythonTools/blob/main/miniProjects/tmcpF1_automation/rpa.png" width=70%></a></br>
-
+Robotic Process Automation (RPA) can alleviate the burden of manual data entry and significantly reduce the risk of errors in user interfaces. In batch data entry processes, Excel tables serve as an effective storage solution, while automation can be achieved using the pyautogui library. Adopting Excel tables provides a straightforward and user-friendly means of data editing, facilitating efficient data input and streamlining workflows. This approach enhances overall accuracy and productivity.
 
 3. __Interactive web map__: https://hydslpss.netlify.app/ <br/>
  <img src ="https://github.com/ckrickyh/pythonTools/blob/main/colab/map/Urban%20forest%20managment%20Map%20Application.png" width=70%/><br/>
@@ -19,7 +19,7 @@ This program enables users to upload photos from Google Drive to Airtable, strea
  <img src="https://github.com/user-attachments/assets/8086e7e5-b93d-4625-b5a7-24d5a050cab6" width=70%/> <br/>
 (Anvil is a low code web app platform for python development, i also add a dashboard https://2024tram10f2.netlify.app/ into this app for analysis)<br/>
 
-5. __Hand Gesture Recongition__: <br/>
+5. __Hand Gesture Recongition__: https://vimeo.com/1117408999<br/>
  <a href="https://vimeo.com/1117408999"><img src="colab/gestureRecongition/handGesture.jpg" width=70%/></a><br/>
 In addition to traditional OCR detection, Google has developed a library for detecting gestures using 21 3D landmarks on the hands, utilizing OpenCV to identify these points during video capture (credit: Oxxo Studio https://steam.oxxostudio.tw/category/python/ai/ai-mediapipe-2023-hand.html).
 I have made some modifications to identify hand gestures in photos, which helps automate the naming and classification of images based on the gestures's photo made after a photo is taken.

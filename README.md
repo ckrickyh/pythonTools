@@ -1,6 +1,7 @@
 # Python Tools
 
-**This project includes folders for Mini Projects and Colab**
+**This project includes folders for Mini Projects and Colab** <br/>
+The relevant code is located in the folders 'colab' and 'miniProjects' above
 ========================================
 
 1. __Automated Photo Uploads to Airtable__: https://vimeo.com/manage/videos/1115064992<br/>

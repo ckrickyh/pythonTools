@@ -5,30 +5,30 @@
 
 1. __Automated Photo Uploads to Airtable__: https://vimeo.com/manage/videos/1115064992<br/>
  <a href="https://vimeo.com/manage/videos/1115064992"><img src="colab/airTable/previewImg.png" width=70%/></a><br/>
-This program enables users to upload photos from Google Drive to Airtable, streamlining data management for field surveys. It boosts efficiency by simplifying historical data updates and enhances organization, creating a practical solutions that optimize workflow.</br>
+This program allows users to upload photos from Google Drive to Airtable, streamlining data management for field surveys. If the name of the photo matches an item in a designated column, the photo will be uploaded to Airtable. This process boosts efficiency by simplifying updates to historical data and enhances organization, creating a practical solution that optimizes workflow. Airtable serves as a valuable tool for improving efficiency in on-site surveys.<br/>
 
-2. __RPA Data Entry Application__: https://vimeo.com/manage/videos/1114613957</br>
+3. __RPA Data Entry Application__: https://vimeo.com/manage/videos/1114613957</br>
 <a href="https://vimeo.com/manage/videos/1114613957"><img src="https://github.com/ckrickyh/pythonTools/blob/main/miniProjects/tmcpF1_automation/rpa.png" width=70%></a></br>
 Robotic Process Automation (RPA) can alleviate the burden of manual data entry and significantly reduce the risk of errors in user interfaces. In batch data entry processes, Excel tables serve as an effective storage solution, while automation can be achieved using the pyautogui library. Adopting Excel tables provides a straightforward and user-friendly means of data editing, facilitating efficient data input and streamlining workflows. This approach enhances overall accuracy and productivity.
 
-3. __Interactive web map__: https://hydslpss.netlify.app/ <br/>
+4. __Interactive web map__: https://hydslpss.netlify.app/ <br/>
  <img src ="https://github.com/ckrickyh/pythonTools/blob/main/colab/map/Urban%20forest%20managment%20Map%20Application.png" width=70%/><br/>
-(This project displays Google Street View based on location, using the Hong Kong government map as a base layer. It was my first programming project, and I dedicated significant time to its development. The static interactive web map takes about 20 seconds to load and runs smoothly on mobile devices compared to computers. Google street view is support"ed on the application.) <br/>
+This project features Google Street View based on location, using the Hong Kong government map as a base layer. As my first programming project, I invested significant time in its development. Data is sourced from CSDI and Google Drive to keep it updated. Since it is a static web app, the content updates each time the project runs in Google Colab. The interactive web map loads in approximately 20 seconds and functions smoothly on mobile devices compared to PCs. Additionally, the application fully supports Google Street View.
 
-4. __Interactive web map integrated with anvil__: https://dependable-kosher-curlew.anvil.app/ <br/>
+6. __Interactive web map integrated with anvil__: https://dependable-kosher-curlew.anvil.app/ <br/>
  <img src="https://github.com/user-attachments/assets/8086e7e5-b93d-4625-b5a7-24d5a050cab6" width=70%/> <br/>
 (Anvil is a low code web app platform for python development, i also add a dashboard https://2024tram10f2.netlify.app/ into this app for analysis)<br/>
 
-5. __Hand Gesture Recongition__: https://vimeo.com/1117408999<br/>
+7. __Hand Gesture Recongition__: https://vimeo.com/1117408999<br/>
  <a href="https://vimeo.com/1117408999"><img src="colab/gestureRecongition/handGesture.jpg" width=70%/></a><br/>
 In addition to traditional OCR detection, Google has developed a library for detecting gestures using 21 3D landmarks on the hands, utilizing OpenCV to identify these points during video capture (credit: Oxxo Studio https://steam.oxxostudio.tw/category/python/ai/ai-mediapipe-2023-hand.html).
 I have made some modifications to identify hand gestures in photos, which helps automate the naming and classification of images based on the gestures's photo made after a photo is taken.
 
-6. __Whatsapp Notification__: <br/>
+8. __Whatsapp Notification__: <br/>
 <img src ="colab/whatsappNotification/awsLambda.png" width=70%/><br/>
 This small application connects to Google Sheets to track upcoming due dates. It sends WhatsApp messages to users when a due date is approaching—specifically, within three days to the deadline. I have deployed it on AWS Lambda for automation, which incurs no daily running costs.
 
-7. __Real use case for K-means Clustering__: <br/>
+9. __Real use case for K-means Clustering__: <br/>
 <img src ="colab/same-size K-means/ClusteringByGroupSize.png" width=70%/><br/>
 This mini-project showcases a practical application of K-means clustering in the field of tree management. K-means clustering is a fundamental machine learning technique used to group data points based on their similarities, and in this project, I apply it to geolocation effectively.
 In tree management system, the geolocation data of trees can be categorized into up to 50 clusters, each representing a distinct group of trees. This approach adheres to the requirement established by the Tree Management Office of HK government, which mandates that each tree group be limited to 50 clusters of similar size. By implementing the K-means clustering method, we can efficiently manage and analyze tree populations, facilitating better decision-making in urban forestry and environmental conservation efforts.

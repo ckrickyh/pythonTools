@@ -29,7 +29,7 @@ I have made some modifications to identify hand gestures in photos, which helps 
 <img src ="colab/whatsappNotification/awsLambda.png" width=70%/><br/>
 This small application connects to Google Sheets to track upcoming due dates. It sends WhatsApp messages to users when a due date is approaching—specifically, within three days to the deadline. I have deployed it on AWS Lambda for automation, which incurs no daily running costs.
 
-9. __Real use case for K-means Clustering__: <br/>
+9. __Real-world use case for K-means Clustering__: <br/>
 <img src ="colab/same-size K-means/ClusteringByGroupSize.png" width=70%/><br/>
 This mini-project showcases a practical application of K-means clustering in the field of tree management. K-means clustering is a fundamental machine learning technique used to group data points based on their similarities, and in this project, I apply it to geolocation effectively.
 In tree management system, the geolocation data of trees can be categorized into up to 50 clusters, each representing a distinct group of trees. This approach adheres to the requirement established by the Tree Management Office of HK government, which mandates that each tree group be limited to 50 clusters of similar size. By implementing the K-means clustering method, we can efficiently manage and analyze tree populations, facilitating better decision-making in urban forestry and environmental conservation efforts.
@@ -94,7 +94,7 @@ This Jupyter notebook is designed for working with geospatial data related to Ho
 - **Districts, Slopes, Bus Stops:**  
   Reads and prints metadata for these datasets, showing available columns and unique values.
 
-### 7. **Map Preparation (Implied)**
+### 7. **Map Preparation**
 - The notebook sets up all required spatial dataframes for further visualization in Folium.
 - While the provided content does not include the actual Folium map creation steps, the setup enables interactive mapping of:
   - Trees (with species, health, and location)

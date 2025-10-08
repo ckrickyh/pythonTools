@@ -1,8 +1,7 @@
 # Python Tools
 
 **The relevant code is located in the above folders
-[colab](https://github.com/ckrickyh/pythonTools/tree/main/colab) ;
-'miniProjects' above** <br/>
+[colab](https://github.com/ckrickyh/pythonTools/tree/main/colab) & [miniProjects](https://github.com/ckrickyh/pythonTools/tree/main/miniProjects)** <br/>
 
 ========================================
 

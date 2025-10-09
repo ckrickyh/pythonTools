@@ -26,7 +26,7 @@ This project features Google Street View based on location, using the Hong Kong 
 In addition to traditional OCR detection, Google has developed a library for detecting gestures using 21 3D landmarks on the hands, utilizing OpenCV to identify these points during video capture (credit: Oxxo Studio https://steam.oxxostudio.tw/category/python/ai/ai-mediapipe-2023-hand.html).
 I have made some modifications to identify hand gestures in photos, which helps automate the naming and classification of images based on the gestures's photo made after a photo is taken.
 
-8. __Whatsapp Notification__: <br/>
+8. __Whatsapp Notification with AWS lambda__: <br/>
 <img src ="colab/whatsappNotification/awsLambda.png" width=70%/><br/>
 This small application connects to Google Sheets to track upcoming due dates. It sends WhatsApp messages to users when a due date is approaching—specifically, within three days to the deadline. I have deployed it on AWS Lambda for automation, which incurs no daily running costs.
 

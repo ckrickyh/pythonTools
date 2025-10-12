@@ -31,7 +31,7 @@ I have made some modifications to identify hand gestures in photos, which helps 
 This small application connects to Google Sheets to track upcoming due dates. It sends WhatsApp messages to users when a due date is approaching—specifically, within three days to the deadline. I have deployed it on AWS Lambda for automation, which incurs no daily running costs.
 
 9. __Real-world use case for K-means Clustering__: https://colab.research.google.com/drive/1HfcSJPPkWOkryQuSSa4G12nbKiOsRQct?usp=sharing<br/>
-<a href="https://colab.research.google.com/drive/1HfcSJPPkWOkryQuSSa4G12nbKiOsRQct?usp=sharing"><img src ="colab/same-size K-means/ClusteringByGroupSize.png" width=70%/></a><br/>
+<a href="https://colab.research.google.com/drive/1HfcSJPPkWOkryQuSSa4G12nbKiOsRQct?usp=sharing"><img src ="colab/same-size K-means/Clustering.png" width=40%/></a><br/>
 Machine learning offers significant advantages for prediction and classification, particularly in urban forest management strategies during frontline inspections. By adopting machine learning, we can enhance the efficiency of resource deployment. The key benefits include:
 - Resource Allocation
 - Customized Management Strategies

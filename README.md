@@ -30,11 +30,12 @@ I have made some modifications to identify hand gestures in photos, which helps 
 <img src ="colab/whatsappNotification/awsLambda.png" width=70%/><br/>
 This small application connects to Google Sheets to track upcoming due dates. It sends WhatsApp messages to users when a due date is approaching—specifically, within three days to the deadline. I have deployed it on AWS Lambda for automation, which incurs no daily running costs.
 
-9. __Real-world use case for K-means Clustering__: <br/>
-<img src ="colab/same-size K-means/ClusteringByGroupSize.png" width=70%/><br/>
-This mini-project showcases a practical application of K-means clustering in the field of tree management. K-means clustering is a fundamental machine learning technique used to group data points based on their similarities, and in this project, I apply it to geolocation effectively.
-In tree management system, the geolocation data of trees can be categorized into up to 50 clusters, each representing a distinct group of trees. This approach adheres to the requirement established by the Tree Management Office of HK government, which mandates that each tree group be limited to 50 clusters of similar size. By implementing the K-means clustering method, we can efficiently manage and analyze tree populations, facilitating better decision-making in urban forestry and environmental conservation efforts.
-This project not only highlights the practical utility of K-means clustering but also demonstrates my ability to apply machine learning concepts to real-world scenarios.
+9. __Real-world use case for K-means Clustering__: https://colab.research.google.com/drive/1HfcSJPPkWOkryQuSSa4G12nbKiOsRQct?usp=sharing<br/>
+<a href="https://colab.research.google.com/drive/1HfcSJPPkWOkryQuSSa4G12nbKiOsRQct?usp=sharing"><img src ="colab/same-size K-means/ClusteringByGroupSize.png" width=70%/></a><br/>
+Machine learning offers significant advantages for prediction and classification, particularly in urban forest management strategies during frontline inspections. By adopting machine learning, we can enhance the efficiency of resource deployment. The key benefits include:
+- Resource Allocation
+- Customized Management Strategies
+- Visual Data Representation
 
 **Overview**
 ========================================

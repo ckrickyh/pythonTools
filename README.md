@@ -5,37 +5,40 @@
 
 ========================================
 
-1. __Automated Photo Uploads to Airtable__: https://vimeo.com/manage/videos/1115064992<br/>
+1. __Automated Photo Uploads to Airtable__: https://vimeo.com/manage/videos/1115064992<br/> 
  <a href="https://vimeo.com/manage/videos/1115064992"><img src="colab/airTable/previewImg.png" width=70%/></a><br/>
-This program allows users to upload photos from Google Drive to Airtable, streamlining data management for field surveys. If the name of the photo matches an item in a designated column, the photo will be uploaded to Airtable. This process boosts efficiency by simplifying updates to historical data and enhances organization, creating a practical solution that optimizes workflow. Airtable serves as a valuable tool for improving efficiency in on-site surveys.<br/>
+This program allows users to upload photos from Google Drive to Airtable, streamlining data management for field surveys. If the name of the photo matches an item in a designated column, the photo will be uploaded to Airtable. This process boosts efficiency by simplifying updates to historical data and enhances organization, creating a practical solution that optimizes workflow. Airtable serves as a valuable tool for improving efficiency in on-site surveys. <a href="https://github.com/ckrickyh/pythonTools/blob/main/colab/airTable/airTableF1_uploadPhotos.ipynb">Code</a><br>
+
 
 3. __RPA Data Entry Application__: https://vimeo.com/manage/videos/1114613957</br>
 <a href="https://vimeo.com/manage/videos/1114613957"><img src="https://github.com/ckrickyh/pythonTools/blob/main/miniProjects/tmcpF1_automation/rpa.png" width=70%></a></br>
-Robotic Process Automation (RPA) can alleviate the burden of manual data entry and significantly reduce the risk of errors in user interfaces. In batch data entry processes, Excel tables serve as an effective storage solution, while automation can be achieved using the pyautogui library. Adopting Excel tables provides a straightforward and user-friendly means of data editing, facilitating efficient data input and streamlining workflows. This approach enhances overall accuracy and productivity.
+Robotic Process Automation (RPA) can alleviate the burden of manual data entry and significantly reduce the risk of errors in user interfaces. In batch data entry processes, Excel tables serve as an effective storage solution, while automation can be achieved using the pyautogui library. Adopting Excel tables provides a straightforward and user-friendly means of data editing, facilitating efficient data input and streamlining workflows. This approach enhances overall accuracy and productivity. <a href="https://github.com/ckrickyh/pythonTools/tree/main/miniProjects/tmcpF1_automation">Code</a><br>
 
-4. __Interactive web map__: https://hydslpss.netlify.app/ <br/>
+4. __Interactive web map__: https://hydslpss.netlify.app/<br/>
  <img src ="https://github.com/ckrickyh/pythonTools/blob/main/colab/map/Urban%20forest%20managment%20Map%20Application.png" width=70%/><br/>
-This project features Google Street View based on location, using the Hong Kong government map as a base layer. As my first programming project, I invested significant time in its development. Data is sourced from CSDI and Google Drive to keep it updated. Since it is a static web app, the content updates each time the project runs in Google Colab. The interactive web map loads in approximately 20 seconds and functions smoothly on mobile devices compared to PCs. Additionally, the application fully supports Google Street View.
+This project features Google Street View based on location, using the Hong Kong government map as a base layer. As my first programming project, I invested significant time in its development. Data is sourced from CSDI and Google Drive to keep it updated. Since it is a static web app, the content updates each time the project runs in Google Colab. The interactive web map loads in approximately 20 seconds and functions smoothly on mobile devices compared to PCs. Additionally, the application fully supports Google Street View. <a href="https://github.com/ckrickyh/pythonTools/tree/main/colab/map">Code<a> 
 
 6. __Interactive web map integrated with anvil__: https://dependable-kosher-curlew.anvil.app/ <br/>
  <img src="https://github.com/user-attachments/assets/8086e7e5-b93d-4625-b5a7-24d5a050cab6" width=70%/> <br/>
-(Anvil is a low code web app platform for python development, i also add a dashboard https://2024tram10f2.netlify.app/ into this app for analysis)<br/>
+(Anvil is a low code web app platform for python development, i also add a dashboard https://2024tram10f2.netlify.app/ into this app for analysis visualization)<br/>
 
 7. __Hand Gesture Recongition__: https://vimeo.com/1117408999<br/>
  <a href="https://vimeo.com/1117408999"><img src="colab/gestureRecongition/handGesture.jpg" width=70%/></a><br/>
 In addition to traditional OCR detection, Google has developed a library for detecting gestures using 21 3D landmarks on the hands, utilizing OpenCV to identify these points during video capture (credit: Oxxo Studio https://steam.oxxostudio.tw/category/python/ai/ai-mediapipe-2023-hand.html).
 I have made some modifications to identify hand gestures in photos, which helps automate the naming and classification of images based on the gestures's photo made after a photo is taken.
+<a href="https://github.com/ckrickyh/pythonTools/tree/main/colab/gestureRecongition">Code<a><br/>
 
-8. __Whatsapp Notification with AWS lambda__: <br/>
+9. __Whatsapp Notification with AWS lambda__: <br/>
 <img src ="colab/whatsappNotification/awsLambda.png" width=70%/><br/>
 This small application connects to Google Sheets to track upcoming due dates. It sends WhatsApp messages to users when a due date is approaching—specifically, within three days to the deadline. I have deployed it on AWS Lambda for automation, which incurs no daily running costs.
 
-9. __Real-world use case for K-means Clustering__: https://colab.research.google.com/drive/1HfcSJPPkWOkryQuSSa4G12nbKiOsRQct?usp=sharing<br/>
+10. __Real-world use case for K-means Clustering__: [https://kwutung2025.netlify.app/](https://kwutung2025.netlify.app/)<br/>
 <a href="https://colab.research.google.com/drive/1HfcSJPPkWOkryQuSSa4G12nbKiOsRQct?usp=sharing"><img src ="colab/same-size K-means/Clustering.png" width=40%/></a><br/>
 Machine learning offers significant advantages for prediction and classification, particularly in urban forest management strategies during frontline inspections. By adopting machine learning, we can enhance the efficiency of resource deployment. The key benefits include:
 - Resource Allocation
 - Customized Management Strategies
-- Visual Data Representation
+- Visual Data Representation <br/>
+<a href="https://colab.research.google.com/drive/1HfcSJPPkWOkryQuSSa4G12nbKiOsRQct?usp=sharing">Code<a><br/>
 
 **Overview**
 ========================================
